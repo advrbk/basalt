@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/bench/">
+    <Project Path="bench/Basalt.Bench/Basalt.Bench.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Basalt.Cli/Basalt.Cli.csproj" />
+    <Project Path="src/Basalt.CrashTest/Basalt.CrashTest.csproj" />
+    <Project Path="src/Basalt/Basalt.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Basalt.Tests/Basalt.Tests.csproj" />
+  </Folder>
+</Solution>

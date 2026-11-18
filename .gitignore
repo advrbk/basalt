@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+*.user
+.vs/
+.vscode/
+.idea/
+TestResults/
+
+# Databases and logs created by the demo, tests, benchmarks and crash harness
+*.db
+*.db-wal
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+demo-data/
+crash-data/
+bench-data/
+scratch/
